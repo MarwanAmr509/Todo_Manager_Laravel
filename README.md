@@ -39,7 +39,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a Todo Manager App built with Laravel and Bootstrap, It has basic CRUD operations Create, Read, Update and Delete, Also it has soft delete feature which can be used as an archieve. It is connected with a MYSQL Database, ALso the forms are validated
+This is a Todo Manager App built with Laravel and Bootstrap, It has basic CRUD operations Create, Read, Update and Delete, Also it has soft delete feature which can be used as an archieve. It is connected with a MYSQL Database using ORM, ALso the forms are validated
+
+
 
 
 
