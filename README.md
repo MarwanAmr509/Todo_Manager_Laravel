@@ -42,7 +42,6 @@
 This is a Todo Manager App built with Laravel and Bootstrap, It has basic CRUD operations Create, Read, Update and Delete, Also it has soft delete feature which can be used as an archieve
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -52,7 +51,6 @@ This is a Todo Manager App built with Laravel and Bootstrap, It has basic CRUD o
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
